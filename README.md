@@ -1,8 +1,10 @@
 **Hi, I’m Suhani Choudhary 👋**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF69B4&icon_color=FF69B4" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true&title_color=FF69B4" height="160"/>
 </p>
+
 
 
 I’m a first-year web development student at Madhav Institute of Technology and Science, building full-stack web apps and practical AI projects. I enjoy turning messy real-world problems into simple, usable tools — especially when they help people on campus or in healthcare.
