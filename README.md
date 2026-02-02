@@ -1,6 +1,8 @@
 **Hi, I’m Suhani Choudhary 👋**
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="640px" alt="header-animation"> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Suhani+Choudhary+👋;Web+Developer+in+Progress;AI+Project+Builder;Creative+Technologist+✨" />
+</p>
 
 I’m a first-year web development student at Madhav Institute of Technology and Science, building full-stack web apps and practical AI projects. I enjoy turning messy real-world problems into simple, usable tools — especially when they help people on campus or in healthcare.
 
