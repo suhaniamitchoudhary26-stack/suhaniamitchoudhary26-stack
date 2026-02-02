@@ -1,165 +1,131 @@
-<h1 align="center">Suhani Choudhary 👋</h1>
+<h1 align="center">Suhani Choudhary</h1>
+<h3 align="center">🌿 Web Development Student | 🤖 AI Project Builder | ✨ Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=2800&pause=800&center=true&vCenter=true&width=720&lines=Web+Developer;Applied+AI+Project+Builder;Hackathon+Winner;Building+Practical+Products" />
-</p>
-
-<p align="center">
-  <b>Web Development · Applied AI · Problem Solving</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/suhaniamitchoudhary26-stack">
-    <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suhani-choudhary-a66230379/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:suhaniamitchoudhary26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=3A5A40&center=true&vCenter=true&width=600&lines=Future+Full-Stack+Developer;AI+Project+Builder;Creative+Problem+Solver;Always+Learning" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-I’m a **first-year B.Tech student at Madhav Institute of Technology and Science**, focused on building **full-stack web applications** and **applied AI tools**.
-
-I like solving problems that are actually annoying in real life.  
-Not demo problems. Not toy apps. Real use cases.
-
-Most of my work focuses on:
-- Campus utilities  
-- Healthcare-adjacent applications  
-- Clear UX with reliable backend logic  
-
-I value **clarity, maintainability, and usefulness** more than flashy features.
-
----
-
-## 🏆 Highlights & Achievements
-
-- 🥇 **Hackathon Winner — Hackgnite**
-- 🤖 **Creator — Mediva.ai**, an AI-based health chatbot
-- 🗺️ Designed and built a **College Navigation System** for campus wayfinding
-- 🧠 Experience working with real users, not just screenshots
+<p align="center">
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/About_Me-344E41?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/Projects-3A5A40?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/Skills-588157?style=for-the-badge&logo=code&logoColor=white"/>
+  </a>
+  <a href="#learning">
+    <img src="https://img.shields.io/badge/Learning-A3B18A?style=for-the-badge&logo=bookstack&logoColor=black"/>
+  </a>
+  <a href="#achievements">
+    <img src="https://img.shields.io/badge/Achievements-CCD5AE?style=for-the-badge&logo=trophy&logoColor=black"/>
+  </a>
+  <a href="#connect">
+    <img src="https://img.shields.io/badge/Connect-DAD7CD?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-## 💡 Projects (Expandable Tabs)
+## 🌷 About Me <a name="about-me"></a>
 
-<details>
-<summary><b>🩺 Mediva.ai — AI Health Chatbot</b></summary>
+I am a **first-year Web Development student** at **Madhav Institute of Technology & Science (MITS)** with a strong interest in building technology that is both **intelligent and user-centered**.
 
-<br>
+I enjoy turning ideas into real systems — especially **AI-powered tools** and **practical web platforms** that solve real-world problems.
 
-**What it is**  
-Mediva.ai is a conversational assistant designed to help users understand basic symptoms and access reliable health information without making unsafe medical claims.
-
-**Why it exists**
-- Many users search health symptoms without context
-- Information online is often confusing or misleading
-- This project focuses on clarity, safety, and explainability
-
-**Key Features**
-- Intent-based conversational flow  
-- Basic symptom triage logic  
-- Backend logging of user interactions  
-- Clear, non-alarming responses  
-- Designed with safety-first principles  
-
-**Tech Focus**
-- Chat flow design  
-- Simple NLP pipelines  
-- Backend services for logging and tracking  
-
-</details>
-
-<details>
-<summary><b>🗺️ College Navigation System</b></summary>
-
-<br>
-
-**What it is**  
-A campus navigation web application to help students, faculty, and visitors locate buildings, labs, classrooms, and common facilities.
-
-**Why it exists**
-- New students struggle with campus navigation
-- Visitors often lack proper directions
-- Existing solutions were either outdated or unavailable
-
-**Key Features**
-- Point-of-interest (POI) management  
-- Route guidance between buildings  
-- Searchable campus map  
-- Mobile-friendly UI  
-
-**Design Goals**
-- Lightweight and fast  
-- Easy to use on mobile devices  
-- Production-ready structure  
-
-</details>
+**Strengths**
+- Curious and creative thinker  
+- Strong problem-solving mindset  
+- Quick learner with a builder approach  
+- Focused on meaningful, real-world impact  
 
 ---
 
-## 🧰 Technical Skills
+## 🚀 Projects <a name="projects"></a>
 
-### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- React (basic component-level understanding)
+### 💖 Mediva.ai — AI Health Chatbot  
+An AI-based chatbot designed to provide intelligent and accessible health-related guidance.  
+**Highlights**
+- Designed user-friendly conversational flows  
+- Focused on clarity and usability  
+- Explored AI-driven response systems  
 
-### Backend
-- Node.js  
-- Express.js  
-- REST API design  
-- Authentication fundamentals  
+### 🗺️ College Navigation System  
+A digital navigation platform helping students locate departments and facilities across campus.  
+**Highlights**
+- Solves a practical student problem  
+- Organized structured location data  
+- Improves campus accessibility  
 
-### Databases
-- MongoDB  
-- PostgreSQL (working knowledge)
-
-### AI / ML
-- Python (basics)  
-- Simple NLP techniques for chat interfaces  
-- Rule-based + intent-based conversational logic  
-
-### Tools & Workflow
-- Git & GitHub  
-- Docker (basic usage)  
-- Postman  
-- VS Code  
+### 🧠 Practice & Academic Builds  
+- Logic-building mini projects  
+- Web interface practice applications  
+- Problem-solving coding exercises  
 
 ---
 
-## 🧠 What I’m Currently Learning
+## 🛠 Skills <a name="skills"></a>
 
-- Advanced frontend patterns and accessibility  
-- Backend reliability and error handling  
-- Deployment basics and DevOps fundamentals  
-- Safer AI response design for chat systems  
+**Programming Languages**  
+Java • Python • JavaScript • SQL  
+
+**Web Development**  
+HTML • CSS • JavaScript • APIs • Git • Responsive Design Basics  
+
+**AI & Systems**  
+AI-based Applications • Logical Thinking • System Design Basics • Problem Solving  
+
+**Soft Skills**  
+Communication • Team Collaboration • Fast Learning • Creative Thinking  
 
 ---
 
-## 🎓 Education
+## 🌱 Currently Learning <a name="learning"></a>
 
-**Bachelor of Technology (B.Tech)**  
-*First Year*  
-Madhav Institute of Technology and Science
+- Backend development foundations  
+- Web application architecture  
+- AI integration in web platforms  
+- Writing scalable and clean code  
+- Building end-to-end real-world projects  
 
 ---
 
-## 📫 Contact & Links
+## 🏆 Achievements <a name="achievements"></a>
 
-- **GitHub:** https://github.com/suhaniamitchoudhary26-stack  
-- **LinkedIn:** https://www.linkedin.com/in/suhani-choudhary-a66230379/  
-- **Email:** suhaniamitchoudhary26@gmail.com  
+🥇 Winner — Hackgnite Hackathon  
+Built a working solution under time pressure and demonstrated innovation and teamwork.
+
+🚀 Active Project Builder  
+Continuously working on practical systems beyond coursework.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🎯 Career Vision
+
+To become a **full-stack developer** who builds **AI-powered, user-friendly platforms** that are technically strong, well-designed, and impactful.
+
+---
+
+## 📫 Connect With Me <a name="connect"></a>
+
+📧 your-email@example.com  
+💼 your-linkedin-link  
+🌍 https://github.com/YOUR_USERNAME  
 
 ---
 
 <p align="center">
-  <i>Built with patience, curiosity, and a lot of debugging.</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=EAEAEA&height=2"/>
 </p>
