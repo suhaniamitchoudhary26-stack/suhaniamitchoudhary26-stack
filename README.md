@@ -1,22 +1,8 @@
 **Hi, I’m Suhani Choudhary 👋**
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff758c, #7a5cff, #00c6ff);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               animation: shine 6s linear infinite;">
-    Suhani Choudhary
-  </span>
-</h1>
-
-<style>
-@keyframes shine {
-  0% {background-position: 0%;}
-  100% {background-position: 200%;}
-}
-</style>
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
 
 
 
