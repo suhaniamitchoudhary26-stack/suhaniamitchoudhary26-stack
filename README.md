@@ -120,9 +120,9 @@ To become a **full-stack developer** who builds **AI-powered, user-friendly plat
 
 ## 📫 Connect With Me <a name="connect"></a>
 
-📧 your-email@example.com  
-💼 your-linkedin-link  
-🌍 https://github.com/YOUR_USERNAME  
+📧 suhaniamitchoudhary26@gmail.com  
+💼 [suhani choudhary linkedin ](https://www.linkedin.com/in/suhani-choudhary-a66230379/)
+🌍 [https://github.com/suhaniamitchoudhary26](https://github.com/suhaniamitchoudhary26-stack)
 
 ---
 
