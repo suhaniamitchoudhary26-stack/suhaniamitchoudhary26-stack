@@ -1,9 +1,9 @@
 **Hi, I’m Suhani Choudhary 👋**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF69B4&icon_color=FF69B4" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true&title_color=FF69B4" height="160"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer"/>
 </p>
+
 
 
 
