@@ -54,4 +54,69 @@ I like taking messy, confusing real-world problems and turning them into **simpl
 <br>
 
 A conversational assistant that helps users understand basic symptoms and discover reliable health resources.  
-Designed with safety, clarity
+Designed with safety, clarity, and explainability in mind.
+
+**What I built**
+- Intent-based conversational flow  
+- Basic symptom triage logic  
+- Backend logging and user-flow tracking  
+- Focus on safe and responsible responses  
+
+</details>
+
+<details>
+<summary><b>🗺️ College Navigation System</b></summary>
+
+<br>
+
+A campus navigation web app that helps students and visitors locate classrooms, labs, and common facilities.
+
+**What it does**
+- Point-of-interest management  
+- Route guidance between buildings  
+- Searchable campus map  
+- Mobile-friendly UI  
+
+</details>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,python,git,docker&perline=6" />
+</p>
+
+---
+
+## 📈 What I’m Learning
+
+- Advanced frontend patterns and accessibility  
+- Backend reliability and deployment basics  
+- Practical AI integration with safety-first design  
+
+---
+
+## 🎓 Education
+
+- **B.Tech (First Year)**  
+  Madhav Institute of Technology and Science  
+
+---
+
+## 🌸 Fun GitHub Touch
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaniamitchoudhary26-stack&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaniamitchoudhary26-stack&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by 💗</b><br>
+  <i>I like building things that quietly work well.</i>
+</p>
