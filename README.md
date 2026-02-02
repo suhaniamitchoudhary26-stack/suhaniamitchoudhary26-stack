@@ -1,8 +1,21 @@
 **Hi, I’m Suhani Choudhary 👋**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer"/>
-</p>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff758c, #7a5cff, #00c6ff);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               animation: shine 6s linear infinite;">
+    Suhani Choudhary
+  </span>
+</h1>
+
+<style>
+@keyframes shine {
+  0% {background-position: 0%;}
+  100% {background-position: 200%;}
+}
+</style>
+
 
 
 
