@@ -1,122 +1,157 @@
-<h1 align="center">
-  Hi, I’m Suhani Choudhary 👋
+<h1 align="center" style="font-weight:600; letter-spacing:0.5px;">
+  Suhani Choudhary
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress;AI+Project+Builder;Turning+Ideas+Into+Useful+Products;Hackathon+Winner+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=21&duration=3200&pause=900&color=6D5BD0&center=true&vCenter=true&width=650&lines=Web+Developer;Applied+AI+Projects;Hackathon+Winner;Building+Useful+Things" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+  <sub>
+    Clean design · Calm engineering · Practical results
+  </sub>
 </p>
 
-<p align="center">
-  <i>Building things that are practical, usable, and actually helpful.</i>
-</p>
-
----
+<br/>
 
 <p align="center">
   <a href="https://github.com/suhaniamitchoudhary26-stack">
-    <img src="https://img.shields.io/badge/GitHub-Profile-ff69b4?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-F5F1EA?style=for-the-badge&logo=github&logoColor=333333"/>
   </a>
   <a href="https://www.linkedin.com/in/suhani-choudhary-a66230379/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-E6E0F8?style=for-the-badge&logo=linkedin&logoColor=333333"/>
   </a>
   <a href="mailto:suhaniamitchoudhary26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-ff69b4?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-E8E1D9?style=for-the-badge&logo=gmail&logoColor=333333"/>
   </a>
 </p>
 
 ---
 
-## 🌷 About Me
+<p align="center">
+  <svg width="100%" height="56" viewBox="0 0 1440 56" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#F5F1EA" d="M0,28L120,26C240,24,480,20,720,20C960,20,1200,24,1320,26L1440,28L1440,0L0,0Z"/>
+  </svg>
+</p>
 
-I’m a **first-year B.Tech student at Madhav Institute of Technology and Science**, focused on web development and applied AI.
+## About
 
-I like taking messy, confusing real-world problems and turning them into **simple, usable tools**. Most of my work revolves around **campus utilities** and **healthcare-adjacent ideas**, where clarity and trust matter more than hype.
+I’m a **first-year B.Tech student at Madhav Institute of Technology and Science**, working at the intersection of **full-stack web development** and **applied AI**.
 
----
-
-## 🏆 Highlights
-
-- 🥇 **Hackathon Winner — Hackgnite**
-- 🤖 **Creator — Mediva.ai** (AI health chatbot)
-- 🗺️ Built a **College Navigation System** for campus use
+I enjoy taking real-world problems that are unclear or poorly designed and turning them into tools that are **simple, reliable, and easy to use**. Most of my work focuses on campus and healthcare-adjacent use cases, where clarity matters more than flash.
 
 ---
 
-## 💖 Featured Projects
+<p align="center">
+  <svg width="55%" height="10">
+    <line x1="0" y1="5" x2="100%" y2="5" stroke="#D8D2F2" stroke-width="1.8">
+      <animate attributeName="stroke-opacity"
+               values="0.35;0.65;0.35"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </line>
+  </svg>
+</p>
+
+## Highlights
+
+- **Hackathon Winner — Hackgnite**  
+- **Creator — Mediva.ai**, an AI-based health chatbot  
+- Built a **College Navigation System** for campus wayfinding  
+
+---
+
+<p align="center">
+  <svg width="100%" height="64" viewBox="0 0 1440 64" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#E6E0F8">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-36 0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="
+        M0,38L100,34C200,30,400,28,600,28C800,28,1000,32,1200,34C1320,36,1380,36,1440,34L1440,0L0,0Z;
+        M0,36L100,38C200,40,400,42,600,40C800,38,1000,34,1200,32C1320,30,1380,30,1440,28L1440,0L0,0Z;
+        M0,38L100,34C200,30,400,28,600,28C800,28,1000,32,1200,34C1320,36,1380,36,1440,34L1440,0L0,0Z"
+      />
+    </path>
+  </svg>
+</p>
+
+## Selected Projects
 
 <details>
-<summary><b>🩺 Mediva.ai — AI Health Chatbot</b></summary>
+<summary><b>Mediva.ai — AI Health Chatbot</b></summary>
 
 <br>
 
-A conversational assistant that helps users understand basic symptoms and discover reliable health resources.  
-Designed with safety, clarity, and explainability in mind.
+A conversational assistant designed to help users understand basic symptoms and access reliable health resources.
 
-**What I built**
-- Intent-based conversational flow  
-- Basic symptom triage logic  
-- Backend logging and user-flow tracking  
-- Focus on safe and responsible responses  
+- Intent-based conversational logic  
+- Basic symptom triage  
+- Backend logging and interaction tracking  
+- Emphasis on safe, explainable responses  
 
 </details>
 
 <details>
-<summary><b>🗺️ College Navigation System</b></summary>
+<summary><b>College Navigation System</b></summary>
 
 <br>
 
-A campus navigation web app that helps students and visitors locate classrooms, labs, and common facilities.
+A campus navigation web application built for students and visitors.
 
-**What it does**
 - Point-of-interest management  
-- Route guidance between buildings  
+- Route guidance between locations  
 - Searchable campus map  
-- Mobile-friendly UI  
+- Mobile-friendly interface  
 
 </details>
 
 ---
 
-## 🧰 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,python,git,docker&perline=6" />
+  <svg width="55%" height="10">
+    <line x1="0" y1="5" x2="100%" y2="5" stroke="#D8D2F2" stroke-width="1.8">
+      <animate attributeName="stroke-opacity"
+               values="0.4;0.8;0.4"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </line>
+  </svg>
 </p>
 
+## Technical Skills
+
+**Frontend**  
+HTML, CSS, JavaScript, React (basic)
+
+**Backend**  
+Node.js, Express, REST APIs, authentication fundamentals
+
+**Databases**  
+MongoDB, PostgreSQL (working knowledge)
+
+**AI / ML**  
+Python (basics), simple NLP for chat interfaces
+
+**Tools**  
+Git, GitHub, Docker (basic), Postman, VS Code
+
 ---
 
-## 📈 What I’m Learning
+## Education
 
-- Advanced frontend patterns and accessibility  
-- Backend reliability and deployment basics  
-- Practical AI integration with safety-first design  
-
----
-
-## 🎓 Education
-
-- **B.Tech (First Year)**  
-  Madhav Institute of Technology and Science  
+**B.Tech (First Year)**  
+Madhav Institute of Technology and Science
 
 ---
-
-## 🌸 Fun GitHub Touch
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaniamitchoudhary26-stack&show_icons=true&theme=radical&hide_border=true"/>
+  <svg width="100%" height="46" viewBox="0 0 1440 46" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#E8E1D9" d="M0,18L120,22C240,26,480,34,720,34C960,34,1200,26,1320,22L1440,18L1440,0L0,0Z"/>
+  </svg>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaniamitchoudhary26-stack&theme=radical&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for stopping by 💗</b><br>
-  <i>I like building things that quietly work well.</i>
+  <sub>
+    Quiet design · Thoughtful engineering
+  </sub>
 </p>
