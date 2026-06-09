@@ -107,7 +107,7 @@ Continuously working on practical systems beyond coursework.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhaniamitchoudhary26-stack&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaniamitchoudhary26-stacklayout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaniamitchoudhary26-stack&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
